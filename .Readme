@@ -1,0 +1,15 @@
+//Created the sample appointment booking project for Nova Labs with 
+
+Front End : React Native
+Back end : Node.js with express
+Database : MongoDB
+Emulator : Memu Play
+
+
+Copy the src files and app.js files to the React-Native folder :
+Start the emulator :
+add -> adb connect localhost:21503
+run-> react-native run-android
+
+
+you can see the sample project with splashscreen,sigin page,signup page, homescreen with available sellers list and details with independent seller and you can book the timeslot as you need.
